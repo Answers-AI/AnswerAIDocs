@@ -1,5 +1,5 @@
 ---
-description: Welcome to the official Flowise documentation
+description: Welcome to the official AnswerAI documentation
 ---
 
 # Introduction
