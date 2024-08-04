@@ -12,6 +12,8 @@
   * [Sidekick Studio](using-answerai/sidekick-studio/README.md)
     * [Creating Sidekicks](using-answerai/sidekick-studio/nodes/README.md)
       * [Agents](using-answerai/sidekick-studio/nodes/agents/README.md)
+        * [OpenAI Assistant](using-answerai/sidekick-studio/nodes/agents/openai-assistant/README.md)
+        * [Tool Agent](using-answerai/sidekick-studio/nodes/agents/tool-agent.md)
       * [Cache](using-answerai/sidekick-studio/nodes/cache/README.md)
       * [Chains](using-answerai/sidekick-studio/nodes/chains/README.md)
       * [Chat Models](using-answerai/sidekick-studio/nodes/chat-models/README.md)
