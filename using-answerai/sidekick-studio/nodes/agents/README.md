@@ -27,7 +27,7 @@ Agents in AnswerAI are advanced AI systems that go beyond simple text generation
 ### Agent Nodes
 
 * [OpenAI Assistant](openai-assistant/)
-* [Tool](tool-agent.md)[ Agent](tool-agent.md)
+* [ToolAgent](tool-agent.md)
 
 ## Agents vs. Other Chains
 
