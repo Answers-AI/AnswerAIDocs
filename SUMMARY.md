@@ -10,7 +10,7 @@
     * [Selecting Sidekicks](using-answerai/sidekicks/selecting-sidekicks.md)
     * [Interacting with Sidekicks](using-answerai/sidekicks/interacting-with-sidekicks.md)
   * [Sidekick Studio](using-answerai/sidekick-studio/README.md)
-    * [Nodes](using-answerai/sidekick-studio/nodes/README.md)
+    * [Creating Sidekicks](using-answerai/sidekick-studio/nodes/README.md)
       * [Agents](using-answerai/sidekick-studio/nodes/agents/README.md)
       * [Cache](using-answerai/sidekick-studio/nodes/cache/README.md)
       * [Chains](using-answerai/sidekick-studio/nodes/chains/README.md)
