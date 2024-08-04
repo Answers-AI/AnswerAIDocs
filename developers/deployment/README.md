@@ -30,7 +30,7 @@ This reduces the technical expertise needed, but may limit the level of customiz
 * [Elestio](https://elest.io/open-source/flowiseai)
 * [Hugging Face](hugging-face.md)
 * [Railway](railway.md)
-* [Render](render.md)
+
 * [Replit](replit.md)
 * [RepoCloud](https://repocloud.io/details/?app\_id=29)
 * [Sealos](sealos.md)
@@ -44,6 +44,5 @@ This complexity, however, also grants greater flexibility and control over your 
 
 * [AWS](aws.md)
 * [Azure](azure.md)
-* [DigitalOcean](digital-ocean.md)
+* [Render](render.md)
 * [GCP](gcp.md)
-* [Kubernetes using Helm](https://artifacthub.io/packages/helm/cowboysysop/flowise)
