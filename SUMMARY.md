@@ -6,7 +6,7 @@
   * [Builder Guide](user-guides/builder-guide.md)
   * [Admin Guide](user-guides/admin-guide.md)
 * [Using AnswerAI](using-answerai/README.md)
-  * [Main Sidekick Interface](using-answerai/sidekicks/README.md)
+  * [Sidekicks](using-answerai/sidekicks/README.md)
     * [Selecting Sidekicks](using-answerai/sidekicks/selecting-sidekicks.md)
     * [Interacting with Sidekicks](using-answerai/sidekicks/interacting-with-sidekicks.md)
   * [Sidekick Studio](using-answerai/sidekick-studio/README.md)
